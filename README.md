@@ -24,7 +24,7 @@ A little snapshot of what I've been up to — my contribution activity over the 
 
 <p align="center">
   <a href="https://github.com/Sooraj-wq#overview">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sooraj-wq&amp;theme=github_dark" width="100%" alt="Sooraj's GitHub contribution activity over the past year" />
+    <img src="./assets/contributions.svg" width="100%" alt="Sooraj's GitHub contribution activity over the past year" />
   </a>
 </p>
 

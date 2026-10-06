@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="180" viewBox="0 0 1200 180">
+  <rect width="1200" height="180" rx="24" fill="#101e32"/>
+  <text x="36" y="62" font-family="Arial, sans-serif" font-size="26" fill="#7af0ca">Coffee in. Commits out.</text>
+  <text x="36" y="106" font-family="Arial, sans-serif" font-size="18" fill="#b9c8dc">The first brew is on its way.</text>
+  <text x="36" y="140" font-family="Arial, sans-serif" font-size="15" fill="#b9c8dc">Run “Refresh contribution graph” in this repository’s Actions tab to generate the calendar.</text>
+</svg>
