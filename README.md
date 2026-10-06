@@ -28,7 +28,7 @@ A little snapshot of what I've been up to — my contribution activity over the 
   </a>
 </p>
 
-<p align="center"><sub>coffee in. commits out. ☕</sub></p>
+<p align="center"><sub>Activity</sub></p>
 
 <br />
 
