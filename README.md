@@ -20,11 +20,11 @@ Usually making something, breaking something, or grabbing another coffee. A litt
 
 ## Daily brew
 
-A little snapshot of what I've been up to — my contribution activity over the last 31 days.
+A little snapshot of what I've been up to — my contribution activity over the past year.
 
 <p align="center">
   <a href="https://github.com/Sooraj-wq#overview">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sooraj-wq&amp;bg_color=101e32&amp;color=b9c8dc&amp;title_color=7af0ca&amp;line=7af0ca&amp;point=8caaff&amp;area_color=7af0ca&amp;area=true&amp;hide_border=true&amp;radius=16&amp;custom_title=Coffee%20in.%20Commits%20out." width="100%" alt="Sooraj's GitHub contribution activity over the last 31 days" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sooraj-wq&amp;theme=github_dark" width="100%" alt="Sooraj's GitHub contribution activity over the past year" />
   </a>
 </p>
 

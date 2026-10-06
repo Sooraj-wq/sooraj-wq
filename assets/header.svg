@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Sooraj V</title>
+  <desc id="desc">Code fuelled by coffee. Midnight-blue banner with mint orbital line art.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101e32"/><stop offset="1" stop-color="#090e19"/></linearGradient>
+    <linearGradient id="accent"><stop stop-color="#7af0ca"/><stop offset="1" stop-color="#7c9cff"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#8ca6c8" stroke-opacity=".07"/></pattern>
+  </defs>
+  <rect width="1200" height="360" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="24" fill="url(#grid)"/>
+  <path d="M64 66H108" stroke="#7af0ca" stroke-width="4"/>
+  <text x="123" y="72" font-family="monospace" font-size="14" letter-spacing="3" fill="#a8bacf">SOORAJ-WQ / GITHUB</text>
+  <text x="60" y="182" font-family="Arial, Helvetica, sans-serif" font-size="78" font-weight="700" letter-spacing="-3" fill="#f3f7fc">Sooraj V<tspan fill="#7af0ca">.</tspan></text>
+  <text x="64" y="231" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#b9c8dc">Code fuelled by coffee.</text>
+  <text x="64" y="299" font-family="monospace" font-size="13" letter-spacing="3" fill="#7af0ca">COFFEE / CODE / REPEAT</text>
+  <g transform="translate(972 180)" fill="none">
+    <circle r="117" stroke="#7af0ca" stroke-opacity=".15"/>
+    <circle r="78" stroke="#7c9cff" stroke-opacity=".3"/>
+    <ellipse rx="163" ry="57" transform="rotate(-37)" stroke="url(#accent)" stroke-width="1.5"/>
+    <ellipse rx="163" ry="57" transform="rotate(37)" stroke="#7c9cff" stroke-opacity=".3"/>
+    <path d="M-31-23-56 0-31 23M31-23 56 0 31 23M12-38-12 38" stroke="#7af0ca" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="129" cy="-84" r="6" fill="#7af0ca" stroke="#101e32" stroke-width="4"/>
+    <circle cx="-107" cy="-73" r="4" fill="#8caaff"/>
+  </g>
+</svg>
